@@ -25,3 +25,11 @@ li {
       background-color: lightgray;
     }
   }
+  
+  @media screen and (min-width: 1200px) {
+    .nav-mlc {
+      flex-direction: row;
+      justify-content: flex-end;
+      background-color: lightgray;
+    }
+}
